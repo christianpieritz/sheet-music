@@ -28,11 +28,13 @@ f8 f8 f4 f8 f8 f4 f8 f8 b4 c4 d4 f,8 f8 f4 f8 f8 b4 d8 d8 c4 a f \break
 \mark \markup { \bold "Segel Setzen / Bridal March" } 
 f4. d16 f16 g4 c d c b2. \bar "||" a2 b4. b8 b2 f2 c4 a8 b'2. \break
 
-\mark \markup { \bold "Rule Britannia" }
+\mark \markup { \bold "Rule Britannia + Jinge Bells" }
+d2. d4 es es d es4. d4 c b \bar "||" a a a2 a4 a4 a2 a4 c4 f,4. g8 a2 \break 
+
+\mark \markup { \bold "Hochzeitsmarsch" }
+\partial 8. es16 es16 es16 es2 r4 es16 es16 es16 es2 r4 [es16 es16 es16] g4 [g16 g16 g16] g4 g16 g16 g16 b4 [b16 b16 b16] b4 [b16 b16 b16]  \bar "||" es2 d4. a8 c4 b as4 f \break 
 
 
-
-\mark \markup { \bold " " }
 
 
 
