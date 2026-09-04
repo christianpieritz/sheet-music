@@ -31,6 +31,9 @@ f4. d16 f16 g4 c d c b2. \bar "||" a2 b4. b8 b2 f2 c4 a8 b'2. \break
 \mark \markup { \bold "Rule Britannia + Jinge Bells" }
 d2. d4 es es d es4. d4 c b \bar "||" a a a2 a4 a4 a2 a4 c4 f,4. g8 a2 \break 
 
+\mark \markup { \bold "Manah" } 
+ e8[ es8 d8 des8] d'4 f4. g8 e8 c8 \bar "|" e,8[ es8 d8 des8] \break
+
 \mark \markup { \bold "Hochzeitsmarsch" }
 \partial 8. es16 es16 es16 es2 r4 es16 es16 es16 es2 r4 es16[ es16 es16] g4 g16[ g16 g16] g4 g16 g16 g16 b4 b16[ b16 b16] b4 b16[ b16 b16]  \bar "||" es2 d4. a8 c4 b as4 f \break 
 
@@ -40,12 +43,9 @@ f4 a b c2( c4) f, a b c2( c4) f, a b c2 a2 f2 a2 g1\break
 \mark \markup { \bold "Back to the Future" } 
 b,4 f'4. b8 as4. as8 g4 as8 f8 es8 f1 \break
 
-\mark \markup { \bold "Manah" } 
- e8[ es8 d8 des8] d'4 f4. g8 e8 c8 \bar "|" e,8[ es8 d8 des8] \break
-
 
 \mark \markup { \bold "Star Wars" } 
-b8[ b8 b8]  es2 b'2 as8[ g8 f8] es'2 b4 as8[ g8 f8] es'2 b4 as8[ g8 as8] f1\break
+b,8[ b8 b8]  es2 b'2 as8[ g8 f8] es'2 b4 as8[ g8 f8] es'2 b4 as8[ g8 as8] f1\break
 
 \mark \markup { \bold "pommernlied" } 
 f4 d4 b'4 f g2 f4 d'4 b a b8 d8  c2. \break
