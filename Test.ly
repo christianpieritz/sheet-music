@@ -51,7 +51,7 @@ b,8[ b8 b8]  es2 b'2 as8[ g8 f8] es'2 b4 as8[ g8 f8] es'2 b4 as8[ g8 as8] f1\bre
 f4 d4 b'4 f g2 f4 d'4 b a b8 d8  c2. \break
 
 \mark \markup { \bold "SANDMÄNNCHEN" } 
-b8 c8 b es b4 f8[ g8] as8[ b8] g8[ es8] f8[ g8] es8[ b8] f4 g4 b2 \break  
+b8 c8 b es b4 f8[ g8] as8[ b8] g8[ es8] f8[ g8] es8[ b8] f'4 g4 b,2\break  % 
 
 \mark \markup { \bold "488" } 
 g'2 g4 f4 es2 b'2 c4 b b as g2  
