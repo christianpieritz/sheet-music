@@ -36,10 +36,10 @@ a2 b4. b8 b2 f2 c'4 a8 b2. \bar "||" d2. d4 es es d es4. d4 c b  \break
 \partial 8. b'16[ b16 b16] b4 b16[ b16 b16]  \bar "||" es2 d4. a8 c4 b as4 f \break 
 
 \mark \markup { \bold "When the saints" }
-f4 a b c2( c4) f, a b c2( c4) f, a b c2 a2 f2 a2 g1\break
+f4 a b c2( c4) f, a b c2( c4) f, a b c2 a2 f2 a2 g1    \break
 
 \mark \markup { \bold "Back to the Future" } 
-b,4 f'4. b8 as4. as8 g4 f8 es8 f1 \break
+f8 f8 b4 b4 d8( b8 f8) \bar "||" f4. b8 as4. as8 g4 f8 es8 f1 \break %b,4 vom anfang
 
 
 \mark \markup { \bold "Star Wars" } 
