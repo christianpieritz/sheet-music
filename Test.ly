@@ -13,6 +13,7 @@
   \key b \major
   \time 4/4
 
+
 \mark \markup { \bold "Marche Militaire" }
 b' f8 f8 es4 f b f8 f8 es4 f4 b f b f b f d f b f b d f2 r2\break
 
@@ -54,10 +55,8 @@ b8 c8 b es b4 f8[ g8] as8[ b8] g8[ es8] f8[ g8]( \break  %es8[ b8] f'4 g4 b,2\br
 \mark \markup { \bold "488" } 
 g2) g4 f4 es2 b'2 c4 b b as g2  \bar "||"  as8[ b8] g8[ es8] f8[ g8] es8[ b8] f'4 g2  es2( es2) % Anfang Sandmann: f8[ g8]
 
-\pageBreak
-
-
-%\mark \markup { \bold "Ode an die Freude" }
-%d'4 d es f f es d c b b c d d4. c8 c2 \break
 }
 
+
+
+  
