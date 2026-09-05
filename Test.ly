@@ -7,7 +7,7 @@
  
 
 \language "deutsch"
-
+\score {
 \relative c {
   \clef bass
   \key b \major
@@ -55,6 +55,12 @@ b8 c8 b es b4 f8[ g8] as8[ b8] g8[ es8] f8[ g8]( \break  %es8[ b8] f'4 g4 b,2\br
 \mark \markup { \bold "488" } 
 g2) g4 f4 es2 b'2 c4 b b as g2  \bar "||"  as8[ b8] g8[ es8] f8[ g8] es8[ b8] f'4 g2  es2( es2) % Anfang Sandmann: f8[ g8]
 
+}
+\layout { } % Erzeugt die PDF-Noten
+  
+  \midi { 
+    \tempo 4 = 120 % Erzeugt die .mid Datei
+  }
 }
 
 
